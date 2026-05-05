@@ -30,23 +30,6 @@ The goal is to build a **consistent ML pipeline** while adapting to different da
 - Used PCA for dimensionality reduction in high-dimensional datasets  
 - Implemented TF-IDF vectorization for text-based spam detection  
 
----
-
-## 🗂️ Project Structure
-
-```
-SpamShield-ML/
-│── data/                 
-│── notebooks/            
-│── src/
-│   ├── preprocessing/    
-│   ├── models/           
-│   ├── utils/            
-│── results/              
-│── README.md
-```
-
----
 
 ## 🔍 Part 1: Multi-Class Classification
 
